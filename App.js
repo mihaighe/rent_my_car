@@ -11,10 +11,9 @@ import CarListScreen from "./src/screens/CarListScreen";
 import CarDetailScreen from "./src/screens/CarDetailScreen";
 import CarBookScreen from "./src/screens/CarBookScreen";
 
-import TabBookingsScreen from './src/screens/TabBookingsScreen';
+import TabBookingsScreen from "./src/screens/TabBookingsScreen";
 import TabAccountScreen from "./src/screens/TabAccountScreen";
 import TabAboutScreen from "./src/screens/TabAboutScreen";
-
 
 const navigator = createSwitchNavigator(
   {
